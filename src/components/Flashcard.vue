@@ -3,6 +3,7 @@
     <div class="card__numbers">
       <div class="first-col">
         <span>{{ firstNumber }} x {{ secondNumber }} = </span>
+        teste
       </div>
 
       <div class="second-col">
